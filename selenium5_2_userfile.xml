@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+    <base>
+        <path>E:\PycharmProjects\selenium2\selenium5_2_userfile.xml</path>
+        <login username="12200000000" password="123456"/>
+        <login username="12200000001" password="123456"/>
+    </base>
+    <test>
+        <encoding>utf-8</encoding>
+    </test>
+</info>
